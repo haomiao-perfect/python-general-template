@@ -31,3 +31,5 @@ Packaging and Distributing Projects: https://packaging.python.org/distributing/
 
 Python Packaging Authority: https://www.pypa.io/en/latest/
 
+Tool Recommendations: https://packaging.python.org/current/
+
