@@ -22,6 +22,10 @@ Details:
 
 Usefull web sites:
 ==============
-Python Packaging User Guide: https://packaging.python.org/
+
+Python Packaging User Guide: https://packaging.python.org/ 
+
 Distributing Python Modules: https://docs.python.org/3/distributing/index.html
+
 Packaging and Distributing Projects: https://packaging.python.org/distributing/
+
