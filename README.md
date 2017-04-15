@@ -15,5 +15,7 @@ How to use the general template (skeleton) for your project:
 Details:
 ============
 
-0. if you modify the setup.py file, you can visit the website" http://docs.python.org/distutils/setupscript.html".
-1. the general template is the The most simplified, so you can adding more rules as you can do.
+0. If you modify the setup.py file, you can visit the website" http://docs.python.org/distutils/setupscript.html".
+1. The general template is the The most simplified, so you can adding more rules as you can do.
+2. Before you install the project, you should install some python packages, as "pip","distribute","nose","virtualenv". pip: install the python packages from PyPI, virtualenv or venv is used to isolate application specific dependencies from a shared Python installation, and nose can be as unit test tools, in fact, the distribute as the standard of Python disutils extension, but it can be replaced by "setuptools".
+3. SomeHow, those tools will not usefull in future, the web site "https://packaging.python.org/current/" can be most useful.
