@@ -29,3 +29,5 @@ Distributing Python Modules: https://docs.python.org/3/distributing/index.html
 
 Packaging and Distributing Projects: https://packaging.python.org/distributing/
 
+Python Packaging Authority: https://www.pypa.io/en/latest/
+
