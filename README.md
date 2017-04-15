@@ -1,7 +1,7 @@
 # python-general-template
 The structure template of general project which can provide some userfull files and quickly build
 
-How to us the general template (skeleton) for your project:
+How to use the general template (skeleton) for your project:
 ============
 
 0. Make copy of the project, the rename it as your new project, for example "project1".
