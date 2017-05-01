@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/haomiao/python-general-template.svg?branch=master)](https://travis-ci.org/haomiao/python-general-template)
 # python-general-template
 The structure template of general project which can provide some userfull files and quickly build
 
